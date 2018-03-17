@@ -5,3 +5,6 @@ ruby-2.5.0
 
 * Database
 Postgresql
+
+# Tutorial Notes
+## Rails Generator
