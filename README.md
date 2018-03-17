@@ -8,3 +8,8 @@ Postgresql
 
 # Tutorial Notes
 ## Rails Generator
+- Controller generator
+
+- Model generator
+
+- Resource generator
